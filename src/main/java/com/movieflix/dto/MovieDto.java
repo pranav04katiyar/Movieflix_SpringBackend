@@ -14,6 +14,7 @@ import java.util.Set;
 @NoArgsConstructor
 @AllArgsConstructor
 public class MovieDto {
+
     private Integer movieId;
 
     @NotBlank(message = "Movie Title is required")
