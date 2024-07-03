@@ -1,0 +1,13 @@
+#spring.application.name=MovieApi
+spring:
+  datasource:
+    username: root
+    password: EarnUr#04respect.
+    url: jdbc:mysql://localhost:3306/movies
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
