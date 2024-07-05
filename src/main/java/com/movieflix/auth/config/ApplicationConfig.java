@@ -1,4 +1,4 @@
-package com.movieflix.config;
+package com.movieflix.auth.config;
 
 import com.movieflix.auth.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Configurable;
