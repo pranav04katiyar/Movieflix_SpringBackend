@@ -6,7 +6,7 @@ This is a simple Spring Boot application that provides a REST API to manage movi
 - Java
 - Spring Boot
 - Maven
-- JPA / Hibernate
+- Spring Data JPA
 - MySQL
 - Spring Security
 - JWT
