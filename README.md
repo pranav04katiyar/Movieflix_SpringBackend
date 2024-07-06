@@ -9,7 +9,7 @@ This is a simple Spring Boot application that provides a REST API to manage movi
 - Spring Data JPA
 - MySQL
 - Spring Security
-- JWT
+- JWT Authentication and Tokens
 - Java Mail Sender
 
 ## Features
